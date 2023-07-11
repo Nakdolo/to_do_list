@@ -1,1 +1,1 @@
-# Simple to_do app
+# Simple to_do list app
